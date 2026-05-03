@@ -1,9 +1,9 @@
 [gd_scene format=3 uid="uid://cy287cy8ynttx"]
 
-[ext_resource type="Script" uid="uid://b2ffcufy62l8u" path="res://main.gd" id="1_ig7tw"]
+[ext_resource type="Script" uid="uid://b2ffcufy62l8u" path="res://Scripts/main.gd" id="1_jjgbg"]
 
 [node name="main" type="Node2D" unique_id=133370782]
-script = ExtResource("1_ig7tw")
+script = ExtResource("1_jjgbg")
 
 [node name="ButtonQuit" type="Button" parent="." unique_id=370540615]
 offset_left = 412.0
